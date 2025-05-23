@@ -1,0 +1,29 @@
+.hero {
+  background-color: #002b64;
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.btn-yellow {
+  background-color: #ffc107;
+  color: #002b64;
+  font-weight: bold;
+}
+
+.icon-feature {
+  font-size: 2rem;
+  color: #002b64;
+}
+
+.gallery img {
+  border-radius: 0.75rem;
+  max-width: 100%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.card:hover {
+  transform: scale(1.02);
+  transition: 0.3s ease;
+}
+
